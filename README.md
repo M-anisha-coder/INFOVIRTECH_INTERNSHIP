@@ -1,22 +1,13 @@
 # INFOVIRTECH_INTERNSHIP
 
-
-
-
-
-
-
-
-
-
-
-
-
 <h2>Task 1 Caterpillar Game</h2>
-Let’s have a look at the process of creating the caterpillar game with Python you can say algorithm for this game 
+Caterpillar game with python 
+For this we  need to a logic in which you will use the four arrow keys to move around the caterpillar to make it eat the leaf, every time it eats the leaf it will grow bigger and move around faster. And  keep the caterpillar inside the widow otherwise the game will be over.
+
 
 
 <h3>Algorithm:</h3>
+<p>Let’s have a look at the process of creating the caterpillar game with Python you can say algorithm for this game:</p>
 
 Step 1. first start with  setting the properties of leaf and the caterpillar.
 
